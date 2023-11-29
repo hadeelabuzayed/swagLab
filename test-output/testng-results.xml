@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T18:48:59 EET" name="Default suite" finished-at="2023-11-29T18:49:01 EET" duration-ms="1922">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T18:48:59 EET" name="Default test" finished-at="2023-11-29T18:49:01 EET" duration-ms="1922">
+      <class name="swaglabs.cartAction">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:swaglabs.cartAction@37fbe4a8]" started-at="2023-11-29T18:48:59 EET" name="setUp" finished-at="2023-11-29T18:49:00 EET" duration-ms="1384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CartTest()[pri:0, instance:swaglabs.cartAction@37fbe4a8]" started-at="2023-11-29T18:49:00 EET" name="CartTest" finished-at="2023-11-29T18:49:00 EET" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartTest -->
+        <test-method is-config="true" signature="MyAfterTest()[pri:0, instance:swaglabs.cartAction@37fbe4a8]" started-at="2023-11-29T18:49:00 EET" name="MyAfterTest" finished-at="2023-11-29T18:49:01 EET" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyAfterTest -->
+      </class> <!-- swaglabs.cartAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
